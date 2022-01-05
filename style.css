@@ -1,0 +1,23 @@
+body {
+  background-color: #e95f5f;
+}
+
+.nav {
+  color: #459167;
+}
+.nav__air-bnb {
+  display: inline-block;
+  width: 2%;
+  height: auto;
+}
+.nav__Airbnb {
+  display: inline-block;
+}
+.nav__liste {
+  display: inline-block;
+}
+.nav__liste__1 {
+  display: inline;
+}
+
+/*# sourceMappingURL=style.css.map */
